@@ -101,11 +101,6 @@ This is a project for a car rental website. It is a project for the College Mini
 - Admin can view feedback by clicking the view button.
 
 
-## Demo
-
-- [Video Demo](https://youtu.be/1Z9Z9Z9Z9Z9)
-
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
