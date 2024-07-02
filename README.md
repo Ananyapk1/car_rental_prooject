@@ -103,7 +103,6 @@ This is a project for a car rental website. It is a project for the College Mini
 
 ## Demo
 
-- [Live Deployment](https://carsminiproject.000webhostapp.com/)
 - [Video Demo](https://youtu.be/1Z9Z9Z9Z9Z9)
 
 
